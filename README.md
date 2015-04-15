@@ -1,4 +1,4 @@
-# dihaw-spring-jasperreports
+# SPRING-MVC-JasperReport
 Spring MVC and Jasper report
 
 
